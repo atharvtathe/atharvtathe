@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Tathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
 <p align="left"> <a href="https://twitter.com/tatheatharv" target="blank"><img src="https://img.shields.io/twitter/follow/tatheatharv?logo=twitter&style=for-the-badge" alt="tatheatharv" /></a> </p>
 
 - 🔭 I’m currently working on [Pomotimer](https://pomotimer.com/)
@@ -24,8 +23,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvtathe&show_icons=true&locale=en&layout=compact" alt="atharvtathe" /></p>
 
-<br/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvtathe&show_icons=true&locale=en" alt="atharvtathe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvtathe&" alt="atharvtathe" /></p>
 
 
