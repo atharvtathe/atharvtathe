@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/tatheatharv" target="blank"><img src="https://img.shields.io/twitter/follow/tatheatharv?logo=twitter&style=for-the-badge" alt="tatheatharv" /></a> </p>
 
-- 🔭 I’m currently working on [Pomotimer](https://pomotimer.com/)
 
 - 💬 Ask me about **react, tailwindcss, nextjs**
 
