@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tatheatharv" target="blank"><img src="https://img.shields.io/twitter/follow/tatheatharv?logo=twitter&style=for-the-badge" alt="tatheatharv" /></a> </p>
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/atharv)](https://peerlist.io/atharv)
 
 - 💬 Ask me about **react, tailwindcss, nextjs**
 
-- 📫 How to reach me **atharvst4018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
