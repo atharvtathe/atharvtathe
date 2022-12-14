@@ -12,8 +12,6 @@
 <a href="https://twitter.com/tatheatharv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tatheatharv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atharvtathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvtathe" height="30" width="40" /></a>
 <a href="https://instagram.com/atharv.tathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharv.tathe" height="30" width="40" /></a>
-<a href="https://hashnode.com/@atharvtathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@atharvtathe" height="30" width="40" /></a>
- <a href="https://dev.to/atharvtathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atharvtathe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
