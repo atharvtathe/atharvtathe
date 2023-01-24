@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Tathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <a href="https://twitter.com/tatheatharv" target="blank"><img src="https://img.shields.io/twitter/follow/tatheatharv?logo=twitter&style=for-the-badge" alt="tatheatharv" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/tatheatharv" target="blank"><img src="https://img.shields.io/twitter/follow/tatheatharv?logo=twitter&style=for-the-badge" alt="tatheatharv" /></a> </p> -->
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvtathe&show_icons=true&locale=en" alt="atharvtathe" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvtathe&show_icons=true&locale=en" alt="atharvtathe" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvtathe&" alt="atharvtathe" /></p>
 
