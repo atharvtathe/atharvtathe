@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Tathe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="center"> <a href="https://quartilecalculator.net/" target="blank">Checkout My latest Project : Quartile Calculator</a>
 
